@@ -1,2 +1,2 @@
-# Assignbment
+# Assignment
 ## By Thomas Timsy
